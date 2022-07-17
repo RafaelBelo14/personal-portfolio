@@ -111,7 +111,7 @@ const Page = () => {
                             An investigation project for Survey Design. Create surveys, projects, teams and share your surveys with them.
                             Create, edit, schedule and delete tasks for your project. All of the survey answers are saved in the respective project and can be downloaded any time.
                         </WorkGridItem>
-                        <SimpleGrid columns={[1,8,8]} gap={6} align="center">
+                        <SimpleGrid columns={[8,8,8]} gap={6} align="center">
                             <Technology thumbnail={thumbNull}/>
                             <Technology thumbnail={thumbHTML}/>
                             <Technology thumbnail={thumbCSS} />
@@ -130,7 +130,7 @@ const Page = () => {
                             A Web-App that represents the best places to locate a company based on it's field of work. 
                             This areas are computed based on other companies positions with the same field of work.
                         </WorkGridItem>
-                        <SimpleGrid columns={[1,8,8]} gap={6} align="center">
+                        <SimpleGrid columns={[8,8,8]} gap={6} align="center">
                             <Technology thumbnail={thumbNull}/>
                             <Technology thumbnail={thumbNull}/>
                             <Technology thumbnail={thumbCSS} />

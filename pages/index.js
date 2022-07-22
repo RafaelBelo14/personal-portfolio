@@ -4,9 +4,6 @@ import {
     Box, 
     Heading, 
     Image, 
-    List, 
-    ListItem,
-    UnorderedList,
     SimpleGrid
 } from "@chakra-ui/react"
 import Section from "../components/section"
